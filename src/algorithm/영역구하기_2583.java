@@ -25,7 +25,7 @@ public class 영역구하기_2583 {
 	static int cnt;
 	static int[] sum;
 	static int[] dx= {0,0,-1,1};
-	static int[] dy= {-1,0,0,0};
+	static int[] dy= {-1,1,0,0};
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
